@@ -58,8 +58,9 @@ http://localhost:5000
 - Local backend URL: `http://localhost:5000`
 - Local health check URL: `http://localhost:5000/api/health`
 - Local frontend origin: `http://localhost:5173`
-- Production backend URL: Not configured in this repository
-- Production frontend URL: Not configured in this repository
+- Production backend URL: `https://todo-project-backend-38jn.onrender.com`
+- Production health check URL: `https://todo-project-backend-38jn.onrender.com/api/health`
+- Production frontend URL: `https://todo-project-frontend-kappa.vercel.app`
 
 ## Folder Structure
 
